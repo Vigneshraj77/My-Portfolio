@@ -1,0 +1,60 @@
+{
+    "portfolio": [
+        {
+            "title": "Fall Detection",
+            "type": "Andriod Application",
+            "image": "./Images/fall.jpeg",
+            "description": "Designed a mobile application dedicated to ensuring safety during accidental falls.This app utilizes sensors and technology to detect falls and immediately trigger an emergency response to contacts with location.",
+            "cta": {"git": "https://github.com/Vigneshraj77/fall-detection-and-alert-of-a-mobile-person-by-Android-studios"},
+            "tools": ["Java","Andriod Studios", "Git"]
+        },
+        {
+            "title": "Quizzard",
+            "type": "Web Development",
+            "image": "./Images/Quiz.png",
+            "description": "Developed an interactive quiz and learning platform that facilitates engaging and collaborative learning experiences.Implemented real-time quiz hosting, scoring, and leaderboards to enhance user engagement.",
+            "cta": { "git": "https://github.com/Vigneshraj77/Quiz-1"},
+            "tools": ["HTML", "CSS", "Javascript", "React", "Node Js","Mongo Db", "Git"]
+        },
+        {
+            "title": "Voice Typer for Excel and Word",
+            "type": "Web Development",
+            "image": "./Images/voice.png",
+            "description": "A python project with tkinter for GUI. This application enables user to speak the content that is to be included to word document or Excel.",
+            "cta": {"git": "https://github.com/Vigneshraj77/Voice-Typing-for-word-document"},
+            "tools": ["Python"]
+        }
+    ],
+    "skills" : {
+        "soft": ["Communication", "Leadership","Problem Solving"],
+        "languages": ["Javascript","TypeScript","HTML", "CSS"],
+        "tools": ["Git", "React", "Redux", "Jest"],
+        "backend": ["Java", "Node Js"]
+    },
+    "experience": [
+        
+        {
+            "company": "Infosys",
+            "start":2021,
+            "end": "Present",
+            "role": "Digital Specialist Engineer",
+            "logo": "./Images/infy.jpg",
+            "duty":["Enhanced application performance by 30% through code splitting, code refactoring, and Webpack implementation."
+            ,"Written clean, efficient, and reusable code following industry best practices."
+            ,"Integrated APIs to dynamically retrieve and display real-time data, facilitating increase user engagement."
+            ,"Identified and resolved bugs while adding new features to an existing application."
+            ,"Collaborated within an Agile development environment, actively participating in daily stand-ups, sprint planning, and code reviews."]
+        },
+        {
+            "company": "Steer Clear",
+            "start": "04/2021",
+            "end": "07/2021",
+            "role": "Front-end Developer",
+            "logo": "./Images/steerclear.jpg",
+            "duty": ["Led and participated in the development of a customer-facing fashion e-commerce platform utilizing React, Redux, and Saga."
+            ,"Collaborated closely with backend developers and designers."
+            ,"Created wireframes for screens and secured sign-off."
+            ,"Ensured the platform's security, session management, and SEO optimization"]
+        }
+    ]
+    }
